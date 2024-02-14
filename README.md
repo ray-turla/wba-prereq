@@ -6,7 +6,7 @@ yarn
 # Required Files
 ```
 dev-wallet.json
-wba-wallet-.json
+wba-wallet.json
 ```
 
 ## How to generate dev-wallet.json
