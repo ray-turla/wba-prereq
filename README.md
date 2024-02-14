@@ -23,7 +23,7 @@ Inside your env, enter your secret key
 ```env
 WBA_SECRET_KEY=<solana secret key>
 ```
-Run wba encode script
+Run wba keygen script
 ```
 # generate wba-wallet-json.file from saved wallet secret key in .env
 yarn wba-keygen
@@ -33,9 +33,6 @@ You are now ready to run scripts
 
 # Running Scripts
 ```
-# generate keypair
-yarn keygen
-
 # request test SOL from devnet
 yarn airdrop
 
