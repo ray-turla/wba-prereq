@@ -21,7 +21,7 @@ mv .env.sample .env
 ```
 Inside your env, enter your secret key
 ```env
-WBA_SECRET_KEY=<solana secret key>
+WBA_SECRET_KEY=<solana secret key as base58 (from phantom)>
 ```
 Run wba keygen script
 ```
